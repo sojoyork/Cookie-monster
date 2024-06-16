@@ -1,0 +1,5 @@
+Cookie_monster v0.1
+[*] Cookie monster has just opened!
+[*] Cookie monster's normal v0.1 features are avalible
+[*] Enjoy cookie monster!
+==================================================
