@@ -23,6 +23,5 @@ Run `cookie_monster.py` to fetch cookies or play Cookie Clicker :)
 
 ```sh
 python cookie_monster.py
-
-
-# alternate
+```
+# alternate installation
