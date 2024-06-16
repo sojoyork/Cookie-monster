@@ -25,3 +25,4 @@ Run `cookie_monster.py` to fetch cookies or play Cookie Clicker :)
 python cookie_monster.py
 ```
 # alternate installation
+Go to cookiemonster.org (cookiemonster.org is not published yet) and click on "installation" and click on download cookie_monster and wait till cookie monster gets downloaded after installation open cookie_monster.folder and open cookie_monster/cookie_monster.py
