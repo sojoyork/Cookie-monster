@@ -12,10 +12,10 @@ The Cookie Monster tool is a collection of scripts for fetching and managing coo
 - `cookie_monster.py`: Fetch cookies from a website and save them to a file.
 - `cookie_search.py`: Read and display cookies saved in a file.
 - `Cookie_news.py`: Display the latest news and updates about Cookie Monster.
-- `Cookie_news_adder.py`: Allow developers to add news and updates to the news file.
+- `Cookie_news_adder.py`: Allow developers to tell news and updates to the news file.
 
 ## Usage
-For fetching website cookies if needed
+For fetching website cookies if needed and knowing if a cookie has HttpOnly or/and HostOnly 
 
 ### Cookie Monster
 
