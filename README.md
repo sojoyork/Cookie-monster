@@ -5,7 +5,7 @@ A tool that fetches cookies
 
 ## Overview
 
-The Cookie Monster tool is a collection of scripts for fetching and managing cookies from websites. It also includes a fun Cookie Clicker game and a news feature to keep you updated about the tool.
+The Cookie Monster tool is a collection of scripts for fetching and managing cookies from websites. It also includes a fun Cookie Clicker game easter-egg and a news feature to keep you updated about the tool.
 
 ## Scripts
 
