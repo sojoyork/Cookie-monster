@@ -25,4 +25,6 @@ Run `cookie_monster.py` to fetch cookies or play Cookie Clicker :)
 python cookie_monster.py
 ```
 # alternate installation
-alternate installation is not avalible yet
+There are 2 ways to install (or three) to install Cookie Monster
+- By this link: https://drive.google.com/file/d/1Q4y8RiH5aFXTF9obkD_w2pai_1NdaMjm/view?usp=drive_link
+- By the official website: sojoyork.github.io/index.html
