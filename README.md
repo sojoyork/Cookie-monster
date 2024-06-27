@@ -26,5 +26,5 @@ python cookie_monster.py
 ```
 # alternate installation
 There are 2 ways to install (or three) to install Cookie Monster
-
+# For linux
 - By the official website: sojoyork.github.io/index.html
