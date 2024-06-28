@@ -27,5 +27,5 @@ python cookie_monster.py
 # alternate installation
 There are 2 ways to install (or three) to install Cookie Monster
 ## For linux
-- Open your terminal and type
+- Open your terminal and type `pip install pyfiglet` and then type`pip install requests` then type ``
 - By the official website: sojoyork.github.io/index.html
