@@ -22,7 +22,7 @@ For fetching website cookies if needed and knowing if a cookie has HttpOnly or/a
 Run `cookie_monster.py` to fetch cookies or play Cookie Clicker :)
 
 ```sh
-python cookie_monster.py
+python3 cookie_monster.py
 ```
 # alternate installation
 There are 2 ways to install (or three) to install Cookie Monster
