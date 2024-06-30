@@ -32,10 +32,11 @@ There are 2 ways to install (or three) to install Cookie Monster
 ## For linux
 - Open your terminal and type `pip install pyfiglet` and then type`pip install requests` then type `git clone https://github.com/sojoyork/Cookie-monster.git` then type `cd Cookie_monster.folder` and type `python3 Cookie_monster.py` and there you go!
 - By the official website: Go to sojoyork.github.io/index.html and install Cookie monster then open your terminal and type `python3 Cookie_monster.py` and there you go! You installed cookie monster!
+- 
+## For windows
+- Go to sojoyork.github.io/index.html and install the tool then open Cookie_monster.folder then open Cookie_monster/Cookie_monster.py and there you go! (also am i a NPC?)
+- Go to command prompt or git for windows and type `git clone https://github.com/sojoyork/Cookie-monster.git` and then type `cd Cookie_monster.folder` and there you installed cookie monster on windows!
 
 # FUN FACTS ABOUT COOKIE MONSTER!
 - Did you know that cookie monster is named after a sesmane street charecter?
 - Did you know that the devloper made the code look like it is made by AI even through it is human-made? Don't yell at me that it is AI made, i just made it look like that.
-## For windows
-- Go to sojoyork.github.io/index.html and install the tool then open Cookie_monster.folder then open Cookie_monster/Cookie_monster.py and there you go! (also am i a NPC?)
-- Go to command prompt or git for windows and type `git clone https://github.com/sojoyork/Cookie-monster.git` and then type `cd Cookie_monster.folder` and there you installed cookie monster on windows!
