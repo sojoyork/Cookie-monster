@@ -1,3 +1,6 @@
+# The random thing I posted on hacker news :)
+I posted that I made a hacking tool and if you saw that then i hope you like it!
+
 # Cookie-monster
 A tool that fetches cookies
 
