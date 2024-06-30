@@ -31,4 +31,4 @@ There are 2 ways to install (or three) to install Cookie Monster
 - By the official website: Go to sojoyork.github.io/index.html and install Cookie monster then open your terminal and type `python3 Cookie_monster.py` and there you go! You installed cookie monster!
 ## For windows
 - Go to sojoyork.github.io/index.html and install the tool then open Cookie_monster.folder then open Cookie_monster/Cookie_monster.py and there you go! (also am i a NPC?)
-- Go to command prompt or git for windowsand type `git clone https://github.com/sojoyork/Cookie-monster.git` and then type `cd Cookie_monster.folder` and there you installed cookie monster on windows!
+- Go to command prompt or git for windows and type `git clone https://github.com/sojoyork/Cookie-monster.git` and then type `cd Cookie_monster.folder` and there you installed cookie monster on windows!
